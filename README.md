@@ -25,7 +25,7 @@ name     : Shivam Raval
 focus    : DSA, Systems Programming, Web Dev
 os       : Arch Linux (btw)
 wm       : Hyprland
-editor   : (your editor here)
+editor   : Neovim
 status   : Always building something
 ```
 
